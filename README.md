@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aravindgarimella
 - 👀 I’m interested in ... Software development   
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python and SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... aravind_garimella@yahoo.in, ig : aravindgarimella
+- 📫 Reach me @ ... aravind_garimella@yahoo.in, x : garimellaaa
 
 <!---
 aravindgarimella/aravindgarimella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
